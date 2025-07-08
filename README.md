@@ -42,7 +42,7 @@ Gurugram, Haryana, India 🇮🇳
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [[linkedin.com/in/keshav-raj](https://www.linkedin.com/in/krkkeshav21/)](#) *(insert your actual link)*
+- LinkedIn: [[linkedin.com/in/keshav-raj](https://www.linkedin.com/in/krkkeshav21/)]
 - Email: [itsrazzkeshav@gmail.com](mailto:your.email@example.com)
 
 ---
